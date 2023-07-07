@@ -255,7 +255,7 @@ nav ul a {
 }
 
 .birgar {
-    margin-right: 0px;
+    margin-right: 15px;
     border: none;
     font-size: 1em;
     text-decoration: none;
@@ -446,11 +446,6 @@ footer {
 
     #myList {
         width: 85%;
-    }
-
-    .br-menio {
-        display: flex;
-        margin-right: -10px;
     }
 
     .p-logo {
