@@ -429,7 +429,7 @@ footer {
 
 @media (max-width:550px) {
     .search-box {
-        width: 280px;
+        width: 275px;
     }
 
     footer {
@@ -445,7 +445,7 @@ footer {
     }
 
     #myList {
-        width: 77%;
+        width: 85%;
     }
 
     .br-menio {
